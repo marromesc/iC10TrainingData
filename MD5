@@ -1,0 +1,16 @@
+2a094f17bab0f05c2aa75e93514a9737 *DESCRIPTION
+a23e17c714b1b550a3f165afc355d361 *NAMESPACE
+fcb64c8ca2991d66ed317e0544dc5442 *data/IntClustMemb.rda
+0c8b35d4584108e30e1187f6f1c2b50d *data/Map.All.rda
+aebbc72a72b480a7036fd4559518b6c4 *data/Map.CN.rda
+153b6eb70ac1ceb373d33acefddb08ea *data/Map.Exp.rda
+4ff38b96e6810c77c92aa04ed80d07c4 *data/datalist
+154b58c939f73eb37e60c3d88cbb11e5 *data/train.CN.rda
+d995b7297a1eb612aa8ebe3174fec529 *data/train.Exp.rda
+68dc8d21255b9b797992024f6e45d0e1 *man/IntClustMemb.Rd
+7e755961bfeec56a0085f784d2fe4cf6 *man/Map.All.Rd
+61b43bdabe38634f0c51e85fc6ba1790 *man/Map.CN.Rd
+02d0d984ba9277c9471f31bb063b21f4 *man/Map.Exp.Rd
+e6b52d762bb29611080c9024b4d5b645 *man/iC10TrainingData-package.Rd
+f8b0c97feb10a0c1f80674b7acfd1af4 *man/train.CN.Rd
+e8e38d6117ee9afb14a4c3d1e477cb96 *man/train.Exp.Rd
