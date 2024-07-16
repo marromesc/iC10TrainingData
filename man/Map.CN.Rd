@@ -23,6 +23,9 @@ Probe mapping of the copy number features of the training set.
     \item{\code{chromosome_name_hg19}}{a numeric vector with the chromosome on hg19}
     \item{\code{start_position_hg19}}{a numeric vector with the start position on hg19}
     \item{\code{end_position_hg19}}{a numeric vector with the end position on hg19}
+    \item{\code{chromosome_name_hg38}}{a numeric vector with the chromosome on hg38}
+    \item{\code{start_position_hg38}}{a numeric vector with the start position on hg38}
+    \item{\code{end_position_hg38}}{a numeric vector with the end position on hg38}
   }
 }
 \source{
