@@ -4,4 +4,7 @@
 # Export all names
 # exportPattern(".")
 
-
+import(GenomicRanges)
+import(rtracklayer)
+import(GenomeInfoDb)
+import(R.utils)
