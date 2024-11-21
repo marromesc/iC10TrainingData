@@ -16,4 +16,4 @@ Function to create a new assembly automatically can be run using the following c
 makeAssembly(ref = 'hg38')
 ```
 
-It will create a new assembly, please note assembly will need to be added to iC10TrainingData source directory and package will need to be rebuilt and install to be able to use in `iC10` R pacakge.
+Please note assembly will need to be added to `iC10TrainingData` source directory and package will need to be rebuilt and installed to be able to use in `iC10` R pacakge.
